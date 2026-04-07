@@ -142,4 +142,4 @@ jupyter notebook notebooks/sales_analysis.ipynb
 
 **Yaradoni Prathapa**
 📧 prathapayaradoni@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/prathap117)
+🔗 [LinkedIn](https://linkedin.com/in/yaradoni-prathapa) | [GitHub](https://github.com/yaradoni-prathapa)
