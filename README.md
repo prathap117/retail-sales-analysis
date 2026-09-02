@@ -100,7 +100,7 @@ retail-sales-analysis/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/prathap117/retail-sales-analysis.git
+git clone https://github.com/yaradoni-prathapa/retail-sales-analysis.git
 cd retail-sales-analysis
 ```
 
@@ -142,4 +142,4 @@ jupyter notebook notebooks/sales_analysis.ipynb
 
 **Yaradoni Prathapa**
 📧 prathapayaradoni@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/yaradoni-prathapa) | [GitHub](https://github.com/yaradoni-prathapa)
+🔗 [LinkedIn](https://www.linkedin.com/in/yaradoni-prathapa/) | [GitHub](https://github.com/yaradoni-prathapa)
